@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/samurai.pixelcrm.github.io/static/css/main.7c874b41.css",
+    "main.js": "/samurai.pixelcrm.github.io/static/js/main.2eeb9fbf.js",
+    "static/js/786.932660fe.js": "/samurai.pixelcrm.github.io/static/js/786.932660fe.js",
+    "static/media/MaterialCommunityIcons.ttf": "/samurai.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Ionicons.ttf": "/samurai.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/MaterialIcons.ttf": "/samurai.pixelcrm.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/samurai.pixelcrm.github.io/static/media/OpenSans-SemiBold.029b9bc9d72f4d799803.ttf",
+    "static/media/FontAwesome5_Solid.ttf": "/samurai.pixelcrm.github.io/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/FontAwesome.ttf": "/samurai.pixelcrm.github.io/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "/samurai.pixelcrm.github.io/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
+    "static/media/OpenSans-Bold.ttf": "/samurai.pixelcrm.github.io/static/media/OpenSans-Bold.dbb97fd982ce1b96b6de.ttf",
+    "static/media/OpenSans-Regular.ttf": "/samurai.pixelcrm.github.io/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "static/media/AntDesign.ttf": "/samurai.pixelcrm.github.io/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/Entypo.ttf": "/samurai.pixelcrm.github.io/static/media/Entypo.fc6169344c041cffcdae.ttf",
+    "static/media/Feather.ttf": "/samurai.pixelcrm.github.io/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "static/media/FontAwesome5_Regular.ttf": "/samurai.pixelcrm.github.io/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
+    "favicon.ico": "/samurai.pixelcrm.github.io/favicon.ico",
+    "static/media/phone_call_icon.png": "/samurai.pixelcrm.github.io/static/media/phone_call_icon.a40e7e0ac0d6246d9800.png",
+    "index.html": "/samurai.pixelcrm.github.io/index.html",
+    "static/media/ajax-loader.gif": "/samurai.pixelcrm.github.io/static/media/ajax-loader.fb6f3c230cb846e25247.gif",
+    "static/media/slick.svg": "/samurai.pixelcrm.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/samurai.pixelcrm.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/samurai.pixelcrm.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/samurai.pixelcrm.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "favicon-32.png": "/samurai.pixelcrm.github.io/favicon-32.png",
+    "postMock.html": "/samurai.pixelcrm.github.io/postMock.html",
+    "manifest.json": "/samurai.pixelcrm.github.io/manifest.json",
+    "favicon-16.png": "/samurai.pixelcrm.github.io/favicon-16.png",
+    "serve.json": "/samurai.pixelcrm.github.io/serve.json",
+    "main.7c874b41.css.map": "/samurai.pixelcrm.github.io/static/css/main.7c874b41.css.map",
+    "main.2eeb9fbf.js.map": "/samurai.pixelcrm.github.io/static/js/main.2eeb9fbf.js.map",
+    "786.932660fe.js.map": "/samurai.pixelcrm.github.io/static/js/786.932660fe.js.map"
+  },
+  "entrypoints": [
+    "static/js/786.932660fe.js",
+    "static/css/main.7c874b41.css",
+    "static/js/main.2eeb9fbf.js"
+  ]
+}
